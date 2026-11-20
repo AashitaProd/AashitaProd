@@ -17,17 +17,14 @@ This is the production engineering account of **Aashita Technosoft Pvt. Ltd.**, 
   <img src="assets/platforms-light.svg" width="100%" alt="Map of the platforms: Trade intelligence (ImpexInfo, SCM Insights, SCM Info), EdTech (EByAi, Kaksha), ListUrAd (ListUrAd, ListUrAd Community, ListUrSoch) and Spark">
 </picture>
 
-| Line | Platform | What it does | Live |
-|:--|:--|:--|:--|
-| Trade intelligence | **ImpexInfo** | Indian customs import and export shipment search, with Excel trade reports | [impexinfo.com](https://www.impexinfo.com) |
-| | **SCM Insights** | Supply-chain and trade-intelligence platform | [scminsights.ai](https://scminsights.ai) |
-| | **SCM Info** | Directory of Indian importers and exporters, with trade tools | |
-| EdTech | **EByAi** | Exam preparation for Indian competitive exams: solved past papers, an AI doubt solver and mock tests | [ebyai.in](https://ebyai.in) |
-| | **Kaksha** | School learning platform for classes, students and parents | |
-| ListUrAd | **ListUrAd** | Classifieds and advertising, on the web and mobile | [listurad.com](https://listurad.com) |
-| | **ListUrAd Community** | The community app of the ListUrAd platform | [community.listurad.com](https://community.listurad.com) |
-| | **ListUrSoch** | Opinions and community, with WhatsApp services | |
-| Spark | **Spark** | Improvement CRM for manufacturing plants: ideas, owners, savings and production-line losses | |
+<p align="center">
+  <b>Live:</b> &nbsp;
+  <a href="https://www.impexinfo.com">impexinfo.com</a> &nbsp;·&nbsp;
+  <a href="https://scminsights.ai">scminsights.ai</a> &nbsp;·&nbsp;
+  <a href="https://ebyai.in">ebyai.in</a> &nbsp;·&nbsp;
+  <a href="https://listurad.com">listurad.com</a> &nbsp;·&nbsp;
+  <a href="https://community.listurad.com">community.listurad.com</a>
+</p>
 
 ## Built with
 
