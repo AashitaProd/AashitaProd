@@ -8,7 +8,7 @@
   <a href="mailto:dev@aashita.ai"><b>dev@aashita.ai</b></a>
 </p>
 
-This is the production engineering account of **Aashita Technosoft Pvt. Ltd.**, part of the Aashita group in Jaipur, India. It holds the code of the platforms we build and run in production. The repositories are private.
+This is the production engineering account of **Aashita Technosoft Pvt. Ltd.**, part of the Aashita group in Jaipur, India. It holds the code of the platforms we build and run in production. The repositories are private. Our websites, internal tools and client work live at **[@AashitaTechnosoft](https://github.com/AashitaTechnosoft)**.
 
 ## Platforms
 
@@ -22,6 +22,7 @@ This is the production engineering account of **Aashita Technosoft Pvt. Ltd.**, 
   <a href="https://www.impexinfo.com">impexinfo.com</a> &nbsp;·&nbsp;
   <a href="https://scminsights.ai">scminsights.ai</a> &nbsp;·&nbsp;
   <a href="https://ebyai.in">ebyai.in</a> &nbsp;·&nbsp;
+  <a href="https://kaksha.ebyai.in">kaksha.ebyai.in</a> &nbsp;·&nbsp;
   <a href="https://listurad.com">listurad.com</a> &nbsp;·&nbsp;
   <a href="https://community.listurad.com">community.listurad.com</a>
 </p>
